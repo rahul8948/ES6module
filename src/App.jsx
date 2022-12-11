@@ -1,11 +1,8 @@
-import React from "react";
-
-function App() {
-  return (
-    <>
-      <h1>Hello Krishna</h1>
-      <h2>Rahul Paswan</h2>
-    </>
-  );
+const rahul = "Rahul Paswan";
+const paswan = "Anuradha";
+function rohit() {
+  let names = "pandit";
+  return names;
 }
-export default App;
+export { paswan, rohit };
+export default rahul;
